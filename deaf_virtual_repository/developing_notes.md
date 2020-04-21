@@ -7,3 +7,4 @@
       2. VR
       3. Non-profits
 2. navigate to other pages
+3. design the box
